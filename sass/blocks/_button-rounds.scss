@@ -1,0 +1,17 @@
+.button-rounds{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.button-rounds:hover {
+    background-color: #00C470;
+}
